@@ -37,8 +37,10 @@ p, a, li, figcaption, span, h3{
 }
 
 .job-title{
-    font-size: 2.2rem;
+    font-size: 2rem;
     margin: 2.5rem 0 3.2rem 0;
+    text-align: left;
+    line-height: 3rem;
 }
 
 h2{
@@ -214,6 +216,7 @@ background-color:var(--primary-left-color);
     border-style: solid;
     border-radius: 10%;
     margin-top: 2rem;
+    
 }
 
 .experiencia li, .formacao li{
